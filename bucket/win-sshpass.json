@@ -1,16 +1,16 @@
 {
-    "version": "0.8.1",
+    "version": "0.9.1",
     "description": "Windows SSHpass - SSH with password authentication from the command line.",
     "homepage": "https://github.com/chuccp/win-sshpass",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/chuccp/win-sshpass/releases/download/v0.8.1/win-sshpass-v0.8.1-amd64.zip",
-            "hash": "c28523af72ae381cf431c6189ef15f86bfb644cb821b0d961a37202045bbef69"
+            "url": "https://github.com/chuccp/win-sshpass/releases/download/v0.9.1/win-sshpass-v0.9.1-amd64.zip",
+            "hash": "a46f29a2e8682bda05365580ed02ddaf27f26d286d2a28cf5b3557c098c39336"
         },
         "arm64": {
-            "url": "https://github.com/chuccp/win-sshpass/releases/download/v0.8.1/win-sshpass-v0.8.1-arm64.zip",
-            "hash": "d29cfd00ec339938fd7f475e75b6792cea924b5f3f7700880b39984a96c4f5d1"
+            "url": "https://github.com/chuccp/win-sshpass/releases/download/v0.9.1/win-sshpass-v0.9.1-arm64.zip",
+            "hash": "c6a49fdf8f85d22bc91e09c13d10aae0405a995ed202779427d3545dd0d5f4ba"
         }
     },
     "extract_dir": ".",
